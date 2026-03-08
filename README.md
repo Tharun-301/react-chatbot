@@ -7,13 +7,7 @@ This project demonstrates a structured React application with reusable component
 
 ## 🚀 Live Demo
 
-🔗 Live Link: *Add your deployed link here (Vercel / Netlify)*
-
-Example:
-
-```
-https://your-chatbot.vercel.app
-```
+🔗 Live Link: https://react-chatbot-project-flame.vercel.app
 
 ---
 
@@ -73,10 +67,9 @@ http://localhost:5173
 
 ## 📸 Screenshot
 
-Add your project screenshot here
 
 ```
-/screenshot/chatbot.png
+![Chatbot UI](image.png)
 ```
 
 ---

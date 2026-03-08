@@ -36,7 +36,7 @@ This project demonstrates a structured React application with reusable component
 Clone the repository
 
 ```
-git clone https://github.com/your-username/react-chatbot.git
+git clone https://github.com/Tharun-301/react-chatbot.git
 ```
 
 Go to the project folder
